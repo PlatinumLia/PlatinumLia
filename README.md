@@ -32,7 +32,7 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 * Gosto muito de pássaros e gatos; \
 * Não gosto de Programação Web; \
 * Platino jogos no meu tempo livre.
- * -> Atualmente platinando: Resident Evil 2 Remake;
+- Atualmente platinando: Resident Evil 2 Remake;
 * Minha franquia de jogos favorito é Persona
 
 <!--
