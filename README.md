@@ -5,20 +5,28 @@ Tenho 20 anos e atualmente sou estagiária na **Secretaria Municipal de Finança
 Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos e projetos. \
 **Pronomes: Ela/Dela** 
 
+- - -
+
  #### 🦜 Fun facts:
 Gosto muito de pássaros e gatos; \
 Não gosto de Programação Web; \
 Platino jogos no meu tempo livre.
+
+-
 
 ## Tenho bastante interesse em: 
 - Desenvolvimento com Linguagem C/C++;
 - Desenvolvimento de Jogos;
 - OpenSource;
 
+- - -
+
 ## Área(s) de interesse
 
 - Desenvolvimento de Jogos;
 - Reparo e Manutenção de Hardwares.
+
+- - -
 
 ## Ferramentas e Tecnologias
 
