@@ -29,11 +29,10 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 - - -
 
  ### 🦜 Fun facts sobre mim:
-* Gosto muito de pássaros e gatos; \
-* Não gosto de Programação Web; \
-* Platino jogos no meu tempo livre.
-- Atualmente platinando: Resident Evil 2 Remake;
-* Minha franquia de jogos favorito é Persona
+* Gosto muito de pássaros e gatos; 
+* Não gosto de Programação Web; 
+* Platino jogos no meu tempo livre; 
+* Minha franquia de jogos favorito é Persona.
 
 <!--
 **PlatinumLia/PlatinumLia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
