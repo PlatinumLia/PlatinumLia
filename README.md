@@ -7,7 +7,7 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 
 - - -
 
- #### 🦜 Fun facts:
+ ### 🦜 Fun facts sobre mim:
 Gosto muito de pássaros e gatos; \
 Não gosto de Programação Web; \
 Platino jogos no meu tempo livre.
