@@ -1,4 +1,8 @@
-### Hi there, I'm Lia!
+### Olá, eu sou a Lia!
+
+Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no **Instituto Federal do Paraná (IFPR)**.\n
+Tenho 20 anos e atualmente sou estagiária na **Secretaria Municipal de Finanças e Orçamento (SMFO)**.\n
+Busco ampliar e aplicá-los em estudos e projetos.
 
 <!--
 **PlatinumLia/PlatinumLia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
