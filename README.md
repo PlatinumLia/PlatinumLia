@@ -12,7 +12,7 @@ Gosto muito de pássaros e gatos; \
 Não gosto de Programação Web; \
 Platino jogos no meu tempo livre.
 
--
+- - -
 
 ## Tenho bastante interesse em: 
 - Desenvolvimento com Linguagem C/C++;
