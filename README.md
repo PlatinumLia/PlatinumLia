@@ -7,13 +7,6 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 
 - - -
 
- ### 🦜 Fun facts sobre mim:
-Gosto muito de pássaros e gatos; \
-Não gosto de Programação Web; \
-Platino jogos no meu tempo livre.
-
-- - -
-
 ## Tenho bastante interesse em: 
 - Desenvolvimento com Linguagem C/C++;
 - Desenvolvimento de Jogos;
@@ -32,6 +25,15 @@ Platino jogos no meu tempo livre.
 
 - Sistema Operacional: Windows e Linux;
 - Linguagens de Programação **(em aprendizado)**: C/C++, Java e Python.
+
+- - -
+
+ ### 🦜 Fun facts sobre mim:
+* Gosto muito de pássaros e gatos; \
+* Não gosto de Programação Web; \
+* Platino jogos no meu tempo livre.
+ * -> Atualmente platinando: Resident Evil 2 Remake;
+* Minha franquia de jogos favorito é Persona
 
 <!--
 **PlatinumLia/PlatinumLia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
