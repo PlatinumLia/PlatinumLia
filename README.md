@@ -3,12 +3,12 @@
 Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no **Instituto Federal do Paraná (IFPR)**. \
 Tenho 20 anos e atualmente sou estagiária na **Secretaria Municipal de Finanças e Orçamento (SMFO)**. \
 Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos e projetos. \
-**Pronomes: Ela/Dela**
+**Pronomes: Ela/Dela** \
 
- #### 🦜 Fun facts: \
+ #### 🦜 Fun facts:
 Gosto muito de pássaros e gatos; \
 Não gosto de Programação Web; \
-Platino jogos no meu tempo livre. \
+Platino jogos no meu tempo livre.
 
 #### Tenho bastante interesse em: 
 - Desenvolvimento com Linguagem C/C++;
