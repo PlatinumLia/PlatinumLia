@@ -39,7 +39,7 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 * Platino jogos no meu tempo livre; 
 * Minha franquia de jogos favorito é Persona.
 
-![futaba](https://giphy.com/embed/kL1ehtUXzzPm4rB3C8 https://giphy.com/gifs/persona-p5-p5r-kL1ehtUXzzPm4rB3C8)
+![futaba](https://giphy.com/gifs/persona-p5-p5r-kL1ehtUXzzPm4rB3C8)
 
 <!--
 **PlatinumLia/PlatinumLia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
