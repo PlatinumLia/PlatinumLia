@@ -21,9 +21,11 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 
 - - -
 
+<div style="align_itens: center">
 ## Ferramentas e Tecnologias
+</div>
 
-<div>
+<div style="display: inline_block">
  <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,java" />
