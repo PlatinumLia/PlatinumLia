@@ -26,7 +26,7 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 <div style="display: inline_block">
  <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,java" />
+   <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,javam,linux,windows" />
   </a>
  </p>
 </div>
