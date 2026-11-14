@@ -23,8 +23,13 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 
 ## Ferramentas e Tecnologias
 
-- Sistema Operacional: Windows e Linux;
-- Linguagens de Programação **(em aprendizado)**: C/C++, Java e Python.
+<div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+ </p>
+</div>
 
 - - -
 
