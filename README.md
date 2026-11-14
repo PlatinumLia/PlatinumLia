@@ -3,7 +3,7 @@
 Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no **Instituto Federal do Paraná (IFPR)**. \
 Tenho 20 anos e atualmente sou estagiária na **Secretaria Municipal de Finanças e Orçamento (SMFO)**. \
 Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos e projetos. \
-**Pronomes: Ela/Dela** 
+> **Pronomes: Ela/Dela** 
 
 - - -
 
@@ -42,7 +42,7 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 - - -
 
 <div align="center">
- <img align="center" width="50%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5lbjJxcWdvb2Q2YWxjbnRlNzh6bXB2cGRnN21qcGhoMWRkMHRuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kL1ehtUXzzPm4rB3C8/giphy.gif">
+ <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5lbjJxcWdvb2Q2YWxjbnRlNzh6bXB2cGRnN21qcGhoMWRkMHRuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kL1ehtUXzzPm4rB3C8/giphy.gif">
 </div>
 
 <!--
