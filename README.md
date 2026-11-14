@@ -21,9 +21,7 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 
 - - -
 
-<div style="align_itens: center">
 ## Ferramentas e Tecnologias
-</div>
 
 <div style="display: inline_block">
  <p align="center">
