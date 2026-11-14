@@ -10,14 +10,14 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 ## Tenho bastante interesse em: 
 - Desenvolvimento com Linguagem C/C++;
 - Desenvolvimento de Jogos;
-- OpenSource;
+- OpenSource.
 
 - - -
 
 ## Área(s) de interesse
 
 - Desenvolvimento de Jogos;
-- Reparo e Manutenção de Hardwares.
+- Reparo e Manutenção de Hardwares;
 
 - - -
 
