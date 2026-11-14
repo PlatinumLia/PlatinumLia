@@ -40,7 +40,9 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 * Minha franquia de jogos favorito é Persona.
 
 - - -
-
+<div>
+ <img href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5lbjJxcWdvb2Q2YWxjbnRlNzh6bXB2cGRnN21qcGhoMWRkMHRuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kL1ehtUXzzPm4rB3C8/giphy.gif">
+</div>
 ![futaba](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5lbjJxcWdvb2Q2YWxjbnRlNzh6bXB2cGRnN21qcGhoMWRkMHRuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kL1ehtUXzzPm4rB3C8/giphy.gif)
 
 <!--
