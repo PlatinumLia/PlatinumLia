@@ -40,7 +40,7 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 * Minha série de jogos favorito é Persona;
 * Não gosto de Desenvolvimento Web;
 * Platino jogos no meu tempo livre;
-* Gosto muito de pássaros e gatos;
+* Gosto muito de pássaros e gatos.
 
 - - -
 
