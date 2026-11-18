@@ -38,8 +38,8 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 
  ### 🦜 Fun facts sobre mim:
 * Minha série de jogos favorito é Persona;
-* Platino jogos no meu tempo livre;
 * Não gosto de Desenvolvimento Web;
+* Platino jogos no meu tempo livre;
 * Gosto muito de pássaros e gatos;
 
 - - -
