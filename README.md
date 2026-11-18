@@ -10,14 +10,17 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 ## Tenho bastante interesse em: 
 - Desenvolvimento com Linguagem C/C++;
 - Desenvolvimento de Jogos;
-- OpenSource.
+- OpenSource;
+- Edição de vídeo e imagens;
+- Jogos, animes, mangás e música;
+- Estudos sobre a mente e a psique humana.
 
 - - -
 
 ## Área(s) de interesse
 
-- Desenvolvimento de Jogos;
 - Reparo e Manutenção de Hardwares;
+- Desenvolvimento de Jogos.
 
 - - -
 
@@ -34,10 +37,10 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
 - - -
 
  ### 🦜 Fun facts sobre mim:
-* Gosto muito de pássaros e gatos; 
-* Não gosto de Programação Web; 
+* Minha série de jogos favorito é Persona;
 * Platino jogos no meu tempo livre; 
-* Minha franquia de jogos favorito é Persona.
+* Gosto muito de pássaros e gatos;
+* Não gosto de Programação Web.
 
 - - -
 
