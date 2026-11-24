@@ -1,7 +1,7 @@
 ## Olá, eu sou a Lia!
 
 Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no **Instituto Federal do Paraná (IFPR)**. \
-Tenho 20 anos e atualmente sou estagiária na **Secretaria Municipal de Finanças e Orçamento (SMFO)**. \
+Tenho 20 anos e atualmente sou estagiária na **Secretaria Municipal de Finanças e Orçamento (SMFO)** como suporte técnico. \
 Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos e projetos.
 > **Pronomes: Ela/Dela** 
 
