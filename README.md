@@ -1,18 +1,17 @@
 ## Olá, eu sou a Lia!
 
 Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no **Instituto Federal do Paraná (IFPR)**. \
-Tenho 20 anos e atualmente sou estagiária na **Secretaria Municipal de Finanças e Orçamento (SMFO)** como suporte técnico. \
-Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos e projetos.
+Tenho 20 anos e atualmente sou estagiária na **Secretaria Municipal de Finanças e Orçamento (SMFO)** como suporte técnico. Sou responsável por ajudar na manutenção dos PC's e impressoras da Secretaria, além de auxiliar no gerenciamento das consultas do Banco de Dados e do sistema que usam para atendimento e arrecadação de tributos. \
+Atualmente estou focando em desenvolver minhas habilidades em desenvolvimento com as linguagens C, C++ e C#.  
 > **Pronomes: Ela/Dela** 
 
 - - -
 
-## Tenho bastante interesse em: 
-- Desenvolvimento com Linguagem C/C++;
+## Assuntos que tenho bastante interesse
+- Desenvolvimento de softwares com Linguagem C/C++;
 - Desenvolvimento de Jogos;
 - OpenSource;
 - Edição de vídeo e imagens;
-- Jogos, animes, mangás e música;
 - Estudos sobre a mente e a psique humana.
 
 - - -
@@ -33,14 +32,6 @@ Busco ampliar meus conhecimentos na área de tecnologia e aplicá-los em estudos
   </a>
  </p>
 </div>
-
-- - -
-
- ### 🦜 Fun facts sobre mim:
-* Minha série de jogos favorito é Persona;
-* Não gosto de Desenvolvimento Web;
-* Platino jogos no meu tempo livre;
-* Gosto muito de pássaros e gatos.
 
 - - -
 
